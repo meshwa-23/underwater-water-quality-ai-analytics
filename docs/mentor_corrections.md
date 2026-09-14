@@ -16,11 +16,11 @@ How can time-stamped underwater water-quality measurements be used to detect ano
 
 ### Mentor Feedback
 
-- 
+-
 
 ### Correction Made
 
-- 
+-
 
 ---
 
@@ -32,19 +32,19 @@ An anomaly is an observation or period that significantly deviates from expected
 
 ### Mentor Feedback
 
-- 
+-
 
 ### Final Decision
 
-- 
+-
 
----
+
 
 ## 3. Forecasting Target
 
+- Temperature
 ### Proposed Targets
 
-- Temperature
 - pH
 - Dissolved oxygen
 - Pressure
@@ -52,11 +52,11 @@ An anomaly is an observation or period that significantly deviates from expected
 
 ### Mentor Feedback
 
-- 
+-
 
 ### Final Target
 
-- 
+-
 
 ---
 
@@ -68,11 +68,11 @@ To be determined after confirming sampling frequency.
 
 ### Mentor Feedback
 
-- 
+-
 
 ### Final Decision
 
-- 
+-
 
 ---
 
@@ -88,11 +88,11 @@ Chronological split without random shuffling.
 
 ### Mentor Feedback
 
-- 
+-
 
 ### Final Decision
 
-- 
+-
 
 ---
 
@@ -125,11 +125,11 @@ Proposed:
 
 ### Mentor Feedback
 
-- 
+-
 
 ### Final Decision
 
-- 
+-
 
 ---
 
@@ -146,24 +146,24 @@ Proposed:
 
 ### Mentor Feedback
 
-- 
+-
 
 ### Final Decision
 
-- 
+-
 
 ---
 
 ## 8. Changes to Methodology V1
 
-| Area | V1 | Mentor Correction | Updated Version |
-|---|---|---|---|
-| Anomaly definition | TBD | TBD | TBD |
-| Forecast target | TBD | TBD | TBD |
-| Forecast horizon | TBD | TBD | TBD |
-| Data split | 70/15/15 | TBD | TBD |
-| Metrics | MAE/RMSE etc. | TBD | TBD |
-| Models | Baseline + ML | TBD | TBD |
+| Area               | V1            | Mentor Correction | Updated Version |
+| ------------------ | ------------- | ----------------- | --------------- |
+| Anomaly definition | TBD           | TBD               | TBD             |
+| Forecast target    | TBD           | TBD               | TBD             |
+| Forecast horizon   | TBD           | TBD               | TBD             |
+| Data split         | 70/15/15      | TBD               | TBD             |
+| Metrics            | MAE/RMSE etc. | TBD               | TBD             |
+| Models             | Baseline + ML | TBD               | TBD             |
 
 ---
 
@@ -171,16 +171,16 @@ Proposed:
 
 After the mentor review, record only confirmed decisions here.
 
-1. 
-2. 
-3. 
-4. 
-5. 
+1.
+2.
+3.
+4.
+5.
 
 ---
 
 ## 10. Updated Assumptions
 
-1. 
-2. 
-3. 
+1.
+2.
+3.
