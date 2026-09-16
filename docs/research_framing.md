@@ -51,27 +51,33 @@ The system will produce:
 ### Anomaly Detection
 
 Baseline:
+
 - Rolling Z-score
 - IQR / MAD-based detection
 
 Machine Learning:
+
 - Isolation Forest
 
 Optional:
+
 - Local Outlier Factor (LOF)
 
 ### Forecasting
 
 Baselines:
+
 - Persistence / last-value prediction
 - Moving average
 - Linear Regression
 
 Machine Learning:
+
 - Random Forest Regression
 - XGBoost Regression
 
 Sequence models:
+
 - LSTM / GRU only if the dataset size and temporal structure justify their use.
 
 ## 6. Scope
