@@ -1,0 +1,10 @@
+Removed Feature,Remaining Features,Train Anomaly Rate (%),Validation Anomaly Rate (%),Validation Rate Change (%),Absolute Change (%)
+ph,8,3.01,2.04,-1.02,1.02
+Hardness,8,3.01,3.05,0.0,0.0
+Solids,8,3.01,2.85,-0.2,0.2
+Chloramines,8,3.01,1.63,-1.43,1.43
+Sulfate,8,3.01,2.65,-0.41,0.41
+Conductivity,8,3.01,2.24,-0.81,0.81
+Organic_carbon,8,3.01,2.24,-0.81,0.81
+Trihalomethanes,8,3.01,3.05,0.0,0.0
+Turbidity,8,3.01,2.44,-0.61,0.61

@@ -1,0 +1,4 @@
+Fold,Training Samples,Validation Samples,Validation MAE,Validation RMSE
+Fold 1,1390,417,0.575884,0.746551
+Fold 2,1807,417,0.68489,0.921755
+Fold 3,2224,417,0.835068,1.050478
