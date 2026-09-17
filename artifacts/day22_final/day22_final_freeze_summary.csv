@@ -1,0 +1,8 @@
+Component,Frozen Choice
+Anomaly Detection Model,Tuned Isolation Forest
+Forecasting Model,Tuned Random Forest Regressor
+Anomaly Features,"ph, Hardness, Solids, Chloramines, Sulfate, Conductivity, Organic_carbon, Trihalomethanes, Turbidity"
+Forecasting Features,"ph, Hardness, Solids, Chloramines, Sulfate, Conductivity, Organic_carbon, Trihalomethanes, Turbidity, hour, day_of_week, day, month, ph_lag_1, ph_rolling_mean_3, ph_rolling_std_3"
+Forecast Target,ph_next
+Validation Strategy,Chronological validation + validation-based selection
+Final Test Policy,Test set untouched until final evaluation
